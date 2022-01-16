@@ -1,0 +1,13 @@
+.menu{
+    background-color: black;
+display: flex;
+justify-content: center;
+padding: 10px;
+}
+.menu a {color: #fff;
+text-decoration: none;
+margin: 0  40px;}
+
+.link-ativo{color: #ff914d;
+}
+
