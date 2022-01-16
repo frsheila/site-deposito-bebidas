@@ -1,0 +1,7 @@
+.c-cabecalho{
+    display:flex;
+    justify-content: center;
+}
+  .logotipo{
+      width: 200px;
+  }
